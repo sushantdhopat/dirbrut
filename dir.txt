@@ -9421,3 +9421,26 @@ zp/zp
 ~web
 ~www
 ~xfs
+log/production.log
+config/app_env.yml
+config/database.yml
+config/secrets.yml
+proc/cmdline
+proc/mounts
+etc/motd
+etc/mysql/my.cnf
+proc/sched_debug
+home/ U1/.bash_history
+home/ U1/.ssh/id_rsa
+.git
+.git-rewrite
+.git/HEAD
+.git/index
+.git/logs
+.gitattributes
+.gitconfig
+.gitkeep
+.gitmodules
+.gitreview
+.svn/entries
+.svnignore
