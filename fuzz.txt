@@ -42,6 +42,8 @@ accesslogs
 10.42.219.3.log
 10.42.219.4.log
 10.42.228.8.log
+elmah.axd?
+Trace.axd
 10advancedredstonecreations.zip
 10automaticfarms.zip
 10awesomecommandblockcreations.zip
