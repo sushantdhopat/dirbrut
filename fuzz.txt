@@ -250,6 +250,10 @@ adnim.zip
 17-2130.log.1
 17-2130.log.2
 17-2131.log
+log/production.log
+config/app_env.yml
+config/database.yml
+config/secrets.yml
 17-2131.log.1
 17-2131.log.2
 17-2135.log
