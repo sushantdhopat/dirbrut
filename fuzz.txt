@@ -81,6 +81,7 @@ _
 125-motorroller.info_2021-01-08.sql
 125-motorroller.net_2021-01-08.sql
 125-roller.eu_2021-01-08.sql
+wp-content/mysql.sql
 1-2.log
 1-2.log.1
 1-2.log.2
