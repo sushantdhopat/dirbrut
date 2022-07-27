@@ -179,6 +179,9 @@ _
 17-2099.log
 17-2099.log.1
 17-2099.log.2
+admin.zip
+backup.zip
+adnim.zip
 17-2100.log
 17-2100.log.1
 17-2100.log.2
