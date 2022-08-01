@@ -18396,3 +18396,5 @@ Zscaler-osx-2.2.4.0-installer.app.zip
 .zshrc.pre-oh-my-zsh
 .zuul.yaml
 .zuul.yml
+wp-include/sym404/root/etc/passwd
+wp-include/sym404/etc/passwd
