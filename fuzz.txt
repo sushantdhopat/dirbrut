@@ -1088,6 +1088,7 @@ htbin/mail/nph-mr.cgi
 .qmake.conf
 .qmake.stash
 .qqestore/
+package.zip
 .rakeTasks
 .rar
 .raw
